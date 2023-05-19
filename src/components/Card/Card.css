@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px 15px;
+    width: 30%;
+}
+
+.tittle_card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    gap: 10px;
+    
+}
+
+span {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 0;
+}

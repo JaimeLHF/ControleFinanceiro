@@ -1,0 +1,27 @@
+.container_form {
+    max-width: 1120px;
+    margin: 20px auto;
+    width: 98%;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+    gap: 10px;
+    align-items: center;
+}
+
+.container_form input {
+    outline: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+.container_form input[type="radio"] {
+    margin-left: 20px;
+    accent-color: black;
+    margin-top: 0;
+}

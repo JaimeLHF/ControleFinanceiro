@@ -1,0 +1,11 @@
+.cabecalho {
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    background: teal;
+}
+
+.cabecalho_header {
+    padding-top: 20px;
+    color: #fff;
+}
